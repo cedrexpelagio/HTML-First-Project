@@ -94,3 +94,8 @@ footer p {
     flex: 2 1 0;
     margin: 10px;
 }
+
+.project-links {
+    display: flex;
+    flex-wrap: wrap;
+}
